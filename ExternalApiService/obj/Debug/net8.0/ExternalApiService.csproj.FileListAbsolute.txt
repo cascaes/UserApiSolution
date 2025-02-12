@@ -1,0 +1,11 @@
+C:\Projetos\UserApiSolution\ExternalApiService\bin\Debug\net8.0\ExternalApiService.deps.json
+C:\Projetos\UserApiSolution\ExternalApiService\bin\Debug\net8.0\ExternalApiService.dll
+C:\Projetos\UserApiSolution\ExternalApiService\bin\Debug\net8.0\ExternalApiService.pdb
+C:\Projetos\UserApiSolution\ExternalApiService\obj\Debug\net8.0\ExternalApiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\UserApiSolution\ExternalApiService\obj\Debug\net8.0\ExternalApiService.AssemblyInfoInputs.cache
+C:\Projetos\UserApiSolution\ExternalApiService\obj\Debug\net8.0\ExternalApiService.AssemblyInfo.cs
+C:\Projetos\UserApiSolution\ExternalApiService\obj\Debug\net8.0\ExternalApiService.csproj.CoreCompileInputs.cache
+C:\Projetos\UserApiSolution\ExternalApiService\obj\Debug\net8.0\ExternalApiService.dll
+C:\Projetos\UserApiSolution\ExternalApiService\obj\Debug\net8.0\refint\ExternalApiService.dll
+C:\Projetos\UserApiSolution\ExternalApiService\obj\Debug\net8.0\ExternalApiService.pdb
+C:\Projetos\UserApiSolution\ExternalApiService\obj\Debug\net8.0\ref\ExternalApiService.dll

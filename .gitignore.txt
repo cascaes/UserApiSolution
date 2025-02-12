@@ -1,0 +1,20 @@
+# Ignorar pastas de build e dependências
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+
+# Ignorar arquivos de configuração local
+appsettings.Development.json
+
+# Ignorar arquivos de usuário
+*.user
+*.suo
+
+# Ignorar arquivos de log e temporários
+*.log
+*.tmp
+
+# Ignorar pacotes NuGet
+packages/
